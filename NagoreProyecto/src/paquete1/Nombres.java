@@ -12,7 +12,8 @@ public class Nombres {
 		System.out.println(nombre2);
 		System.out.println(nombre3);
 		System.out.println(nombre4);
-
+		System.out.println("hola");
+		System.out.println("hola");
 	}
 
 }
